@@ -10,5 +10,6 @@ public class App {
         System.out.println("Hello Git! yk hotfix first modify!");
         System.out.println("Hello Git yk master first modify");
         System.out.println("Hello Github! yk master first Github");
+        System.out.println("Test pull fromGitHub!");
     }
 }
